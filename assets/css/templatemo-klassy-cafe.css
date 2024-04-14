@@ -120,7 +120,7 @@ body {
 }
 
 ::selection {
-  background: #fb5849;
+  background: #1d5538;
   color: #fff;
 }
 
@@ -174,7 +174,7 @@ body {
 .section-heading h6 {
   position: relative;
   font-size: 15px;
-  color: #fb5849;
+  color: #36ed04;
   font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -188,7 +188,7 @@ body {
   position: absolute;
   left: 0;
   top: 8px;
-  background-color: #fb5849;
+  background-color: #36ed04;
 }
 
 .section-heading h2 {
@@ -223,11 +223,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fb5849!important;
+  color: #36ed04!important;
 }
 
 .background-header .nav li a.active {
-  color: #fb5849!important;
+  color: #36ed04!important;
 }
 
 .header-area {
@@ -315,12 +315,12 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #fb5849!important;
+  color: #36ed04!important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fb5849!important;
+  color: #36ed04!important;
   opacity: 1;
 }
 
@@ -760,7 +760,7 @@ banner
   right:30px;
   width: 50px;
   height: 50px;
-  background-color: #fb5849;
+  background-color: #36ed04;
   border:0 none;
   line-height: 44px;
   border-radius: 50%;
@@ -789,7 +789,7 @@ banner
   left:30px;
   width: 50px;
   height: 50px;
-  background-color: #fb5849;
+  background-color: #36ed04;
   border:0 none;
   line-height: 44px;
   border-radius: 50%;
@@ -850,6 +850,7 @@ about
 #about {
   margin-top: 20px;
   padding: 100px 0px 0px 0px;
+  padding-bottom: 100px;
   position: relative;
   z-index: 9;
 }
@@ -861,6 +862,7 @@ about
 #about img {
   width: 100%;
   overflow: hidden;
+  padding-top: 3em;
 }
 
 #about .left-text-content p {
@@ -1470,7 +1472,7 @@ footer
 footer {
   margin-top: 60px;
   padding: 50px 0px;
-  background-color: #fb5849;
+  background-color: #1d5538;
 }
 
 footer .left-text-content p {
@@ -1515,7 +1517,7 @@ footer .right-text-content ul li a {
   font-size: 20px;
   background-color: #fff;
   border-radius: 50%;
-  color: #fb5849;
+  color: #1d5538;
   -webkit-transition: all 0.5s ease 0s;
   -moz-transition: all 0.5s ease 0s;
   -o-transition: all 0.5s ease 0s;
