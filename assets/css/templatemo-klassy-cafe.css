@@ -1761,8 +1761,9 @@ responsive
 #pedido{
 
   border: 1px;
-  border-color: #1d5538;
+  border-color: #408954;
   border-radius: 3px;
-  background-color: #b5f7d5;
+  background-color: #408954;
+  color: #FFF;
 
 }
