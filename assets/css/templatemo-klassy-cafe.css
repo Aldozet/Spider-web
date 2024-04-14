@@ -1,11 +1,3 @@
-/*
-
-TemplateMo 558 Klassy Cafe
-
-https://templatemo.com/tm-558-klassy-cafe
-
-*/
-
 /* ---------------------------------------------
 Table of contents
 ------------------------------------------------
@@ -657,7 +649,7 @@ banner
 }
 
 #top .left-content {
-  background-image: url(../images/top-left-bg.jpg);
+  background-image: url(../images/fondp_verde.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -674,7 +666,7 @@ banner
 }
 
 #top .left-content h4 {
-  font-family: 'Dancing Script', cursive;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace, cursive;
   color: #fff;
   font-size: 54px;
   font-weight: 700;
@@ -1475,7 +1467,7 @@ footer
 footer {
   margin-top: 60px;
   padding: 50px 0px;
-  background-color: #1d5538;
+  background-color: #408954;
 }
 
 footer .left-text-content p {
