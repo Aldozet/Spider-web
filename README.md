@@ -1,7 +1,7 @@
 # Spider-web
 Proyecto para Hackaton 2024 angelhack
 
-memer teams 
+member team 
 
 Aldo Velazquez Hernandez
 Aldrich Jhonatan Avila Sanches

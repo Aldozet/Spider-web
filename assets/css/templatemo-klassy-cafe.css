@@ -1730,17 +1730,19 @@ responsive
 #semaforoVerde{
 
   color: #36ed04;
+  font-size: 1.5em;
 
 }
 
 #semaforoAmarillo{
 
   color: yellow;
+  font-size: 1.5em;
 }
 
 #donante {
   background-color: #267d504a;
-  background-image: url('/assets/images/fondp_verde.jpg');
+  background-image: url("/assets/images/fondp_verde.jpg");
   border-color: #1d5538;
   border-style: solid;
   border-radius: 1em;
@@ -1749,6 +1751,7 @@ responsive
 
 #donante2 {
   background-color: #9cba26a8;
+  background-image: url('/assets/images/fondo_amarillo.png');
   border-color: #1d5538;
   border-style: solid;
   border-radius: 1em;
