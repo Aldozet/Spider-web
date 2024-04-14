@@ -1670,3 +1670,14 @@ responsive
     opacity: 0;
   }
 }
+
+#logo{
+ 
+  width: 5em;
+
+}
+
+#logo_footer{
+  width: 15em;
+
+}
