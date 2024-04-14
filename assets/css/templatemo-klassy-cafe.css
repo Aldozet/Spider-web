@@ -117,7 +117,7 @@ body {
 }
 
 ::-moz-selection {
-  background: #fb5849;
+  background: #36ed04;
   color: #fff;
 }
 
@@ -139,7 +139,7 @@ body {
 
 .main-white-button a {
   font-size: 13px;
-  color: #fb5849;
+  color: #36ed04;
   background-color: #fff;
   padding: 12px 25px;
   display: inline-block;
@@ -938,8 +938,8 @@ menu
 .info {
   position: relative;
   width: 100%;
-  background-color: #fb5849;
-  border: 1px solid #fb5849;
+  background-color: #408954;
+  border: 1px solid #408954;
   transform: translateY(100%)
   translateY(120px)
   translateZ(0);
