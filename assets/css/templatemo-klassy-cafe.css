@@ -1738,12 +1738,13 @@ responsive
   color: yellow;
 }
 
-#donante{
-    background-color: #267d504a;
-    border-color: #1d5538;
-    border-style: solid;
-    border-radius: 1em;
-    padding: 1em;
+#donante {
+  background-color: #267d504a;
+  background-image: url('/assets/images/fondp_verde.jpg');
+  border-color: #1d5538;
+  border-style: solid;
+  border-radius: 1em;
+  padding: 1em;
 }
 
 #donante2 {
